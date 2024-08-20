@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BlackJack_MutiPlayer/1.0.0": {
+        "dependencies": {
+          "Luffy_Tool": "1.0.0"
+        },
+        "runtime": {
+          "BlackJack_MutiPlayer.dll": {}
+        }
+      },
+      "Luffy_Tool/1.0.0": {
+        "runtime": {
+          "Luffy_Tool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlackJack_MutiPlayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Luffy_Tool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
